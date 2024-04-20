@@ -1,4 +1,4 @@
-### Heyo 
+### Heyo 👋
 
 I am a high school student from Germany with a passion for coding 🇩🇪. My journey into programming began a few years ago, and since then, I’ve dedicated myself to mastering this skill 🤖. Deep Learning captivates me the most, and I am currently channeling my efforts into developing my own deep learning framework 🧠.
 

@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <h3>Profile visits:</h3>
+  <h3>Profile views:</h3>
   <img src="https://profile-counter.glitch.me/Servant-of-Scietia/count.svg?"  />
 </div>
 

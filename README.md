@@ -1,4 +1,4 @@
-<h2 align="center">Heyo 👋! My name is Samuel and I'm a german high school student.</h2>
+<h2 align="center">Heyo! My name is Samuel Leber and I'm a German high school student.</h2>
 
 ###
 
